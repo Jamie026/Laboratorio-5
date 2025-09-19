@@ -1,3 +1,5 @@
 # Laboratorio-5
 
-https://github.com/Jamie026/Laboratorio-5/issues/1
+<img src="https://i.imgur.com/tUElMtY.jpeg" width="200">
+<img src="https://i.imgur.com/fSELb4K.jpeg" width="200">
+<img src="https://i.imgur.com/jGVBbhc.jpeg" width="200">
